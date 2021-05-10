@@ -21,3 +21,5 @@
 > git branch -va development
 
 > git pull
+
+> git status
