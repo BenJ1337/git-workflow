@@ -7,3 +7,7 @@
 > git commit --all
 
 > git push origin master
+
+> git branch development
+
+> git checkout development
