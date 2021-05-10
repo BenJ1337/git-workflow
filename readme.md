@@ -7,3 +7,15 @@
 > git commit --all
 
 > git push origin master
+
+> git branch development
+
+> git checkout development
+
+> git checkout -b feature/more-notes
+
+> git merge feature/more-notes
+
+> git fetch
+
+> git branch -va development
