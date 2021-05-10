@@ -22,4 +22,8 @@
 
 > git pull
 
+<<<<<<< HEAD
 > git rebase master
+=======
+> git status
+>>>>>>> development
