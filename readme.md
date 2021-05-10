@@ -19,3 +19,5 @@
 > git fetch
 
 > git branch -va development
+
+> git pull
