@@ -14,3 +14,8 @@
 
 > git checkout -b feature/more-notes
 
+> git merge feature/more-notes
+
+> git fetch
+
+> git branch -va development
