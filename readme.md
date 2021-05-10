@@ -11,3 +11,6 @@
 > git branch development
 
 > git checkout development
+
+> git checkout -b feature/more-notes
+
