@@ -18,12 +18,10 @@
 
 > git fetch
 
-> git branch -va development
+> git branch -va 
 
 > git pull
 
-<<<<<<< HEAD
-> git rebase master
-=======
 > git status
->>>>>>> development
+
+> git rebase master
