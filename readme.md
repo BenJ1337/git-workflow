@@ -1,0 +1,9 @@
+# Git Workflow
+
+> git clone https://github.com/BenJ1337/git-workflow.git
+
+> git add .
+
+> git commit --all
+
+> git push origin master
