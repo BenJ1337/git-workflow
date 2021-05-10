@@ -14,3 +14,4 @@
 
 > git checkout -b feature/more-notes
 
+> git pull
